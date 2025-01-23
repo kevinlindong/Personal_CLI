@@ -3,11 +3,12 @@ My personal portfolio website
 
 Features:
 - CLI style interface
-- help command
+- Command List:
   - about
   - socials
   - projects
   - light/dark mode
   - clear
-- reactive gradient banner
-- custom retro cursor
+  - help
+- Reactive gradient banner
+- Custom retro cursor
