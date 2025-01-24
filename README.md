@@ -1,4 +1,4 @@
-# Personal_CLI
+# Kevin Dong Personal Portfolio
 My personal portfolio website
 
 Features:
